@@ -1,0 +1,15 @@
+
+
+#map {
+    height: 850px;
+    width: 800px;
+}
+
+#text {
+    float: left;
+    width: 30%;
+}
+
+#google-map {
+    float: right;
+}
